@@ -1,0 +1,3 @@
+-i https://pypi.org/simple
+-e .
+pillow==5.4.1
