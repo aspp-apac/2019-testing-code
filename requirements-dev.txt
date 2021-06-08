@@ -1,13 +1,13 @@
 -i https://pypi.org/simple/
 atomicwrites==1.4.0
-attrs==20.3.0
+attrs==21.2.0
 coverage==5.5
-importlib-metadata==3.7.3 ; python_version < '3.8'
-more-itertools==8.7.0
+importlib-metadata==4.5.0 ; python_version < '3.8'
+more-itertools==8.8.0
 pluggy==0.13.1
 py==1.10.0
 pytest-cov==2.6.1
 pytest==4.1.1
-six==1.15.0
-typing-extensions==3.7.4.3 ; python_version < '3.8'
+six==1.16.0
+typing-extensions==3.10.0.0 ; python_version < '3.8'
 zipp==3.4.1
